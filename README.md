@@ -1,2 +1,2 @@
 # estudos
-DEstinados a estudos
+Destinados a estudos
